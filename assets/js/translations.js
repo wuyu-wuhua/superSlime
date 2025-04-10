@@ -7,10 +7,9 @@ const translations = {
         "nav-community": "Community",
         "nav-updates": "Updates",
         "nav-about": "About Us",
-        "footer-copyright": "© 2024 Super Slime. All rights reserved.",
         
         // 首页
-        "home-title": "Welcome to Super Slime",
+        "home-title": "Super Slime - Free Online Multiplayer Slime Game",
         "home-subtitle": "Create, Play, and Share Your Slime Adventures",
         "home-download": "Download Now",
         "home-features": "Features",
@@ -22,7 +21,7 @@ const translations = {
         "home-feature3-desc": "New content and features added regularly",
         
         // 关于我们页面
-        "about-title": "About Us",
+        "about-title": "About Us - Free Online Multiplayer Slime Game",
         "about-breadcrumb": "About Us",
         "about-story-content": "Our story begins with a simple idea: to create a game that brings joy and creativity to players worldwide. What started as a small team of passionate developers has grown into a diverse community of creators and players.",
         "about-mission-title": "Our Mission",
@@ -49,7 +48,7 @@ const translations = {
         "footer-copyright": "© 2024 超级史莱姆。保留所有权利。",
         
         // 首页
-        "home-title": "欢迎来到超级史莱姆",
+        "home-title": "Super Slime - 免费在线多人游戏",
         "home-subtitle": "创造、游玩和分享你的史莱姆冒险",
         "home-download": "立即下载",
         "home-features": "特色功能",
@@ -88,7 +87,7 @@ const translations = {
         "footer-copyright": "© 2024 スーパースライム。All rights reserved.",
         
         // 首页
-        "home-title": "スーパースライムへようこそ",
+        "home-title": "スーパースライム - 無料オンラインマルチプレイヤースライムゲーム",
         "home-subtitle": "スライムの冒険を作成、プレイ、共有しよう",
         "home-download": "今すぐダウンロード",
         "home-features": "特徴",
